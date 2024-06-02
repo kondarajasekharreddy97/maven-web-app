@@ -4,7 +4,7 @@
 <h2>Learn In Easy Way </h2>
 
 <a href="https://facebook.com/groups/thejavatemple">Click Here To Website</a>
-<h1>TEST </h1>
+<h1>TEST in the browser </h1>
 <br/>
 
 </body>
